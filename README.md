@@ -1,4 +1,4 @@
-# Themidie
+# Themidie - /!\ For educational purposes only /!\
 
 x64dbg plugin to bypass Themida 3.x Anti-Debugger / VM / Monitoring programs checks (64bits only)
 
