@@ -13,7 +13,7 @@ x64dbg plugin to bypass Themida 3.x Anti-Debugger / VM / Monitoring programs che
 - Download the [latest version](https://github.com/x64dbg/ScyllaHide/releases/latest) of ScyllaHide and extract HookLibraryx64.dll and ScyllaHideX64DBGPlugin.dp64 to x64dbg's plugins folder 
 ![](Images/plugins.png)
 
-- Start x64dbg, click on the plugins tab, go to ScyllaHide -> Options
+- Start x64dbg, click on the plugins tab, go to ScyllaHide => Options
 ![](Images/scylla_options.png)
 
 - Disable everything, enable "Kill Anti-Attach" only and click on the "OK" button
