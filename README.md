@@ -9,8 +9,8 @@ x64dbg plugin to bypass Themida 3.x Anti-Debugger / VM / Monitoring programs che
 
 ### Usage
 
-- Download the [latest version](https://github.com/VenTaz/Themidie/releases) of Themidie and extract Themidie.dll and Themidie.dp64 to x64dbg's plugins folder 
-- Download the [latest version](https://github.com/VenTaz/Themidie/releases) of ScyllaHide and extract HookLibraryx64.dll and ScyllaHideX64DBGPlugin.dp64 to x64dbg's plugins folder 
+- Download the [latest version](https://github.com/VenTaz/Themidie/releases/latest) of Themidie and extract Themidie.dll and Themidie.dp64 to x64dbg's plugins folder 
+- Download the [latest version](https://github.com/x64dbg/ScyllaHide/releases/latest) of ScyllaHide and extract HookLibraryx64.dll and ScyllaHideX64DBGPlugin.dp64 to x64dbg's plugins folder 
 ![](Images/plugins.png)
 
 - Start x64dbg, click on the plugins tab, go to ScyllaHide -> Options
