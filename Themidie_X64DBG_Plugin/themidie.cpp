@@ -54,7 +54,7 @@ start(std::string exe_path)
         else
         {
             load_library_function = GetProcAddress(kernel_module, "LoadLibraryA");
-            if (!load_library_function) { error("Could not retrieve LoadLibraryA function into target process."); }
+            if (!load_library_function) { error("Could not find LoadLibraryA function into target process."); }
 
             else
             {
