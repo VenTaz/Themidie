@@ -14,7 +14,7 @@ x64dbg plugin to bypass Themida 3.x Anti-Debugger / VM / Monitoring programs che
 
 ![](Images/plugins.png)
 
-- Start x64dbg, click on the plugins tab, go to ScyllaHide Options
+- Start x64dbg, click on the plugins tab, go to ScyllaHide -> Options
 
 ![](Images/scylla_options.png)
 
@@ -22,7 +22,7 @@ x64dbg plugin to bypass Themida 3.x Anti-Debugger / VM / Monitoring programs che
 
 ![](Images/scylla_kill_anti_attach.png)
 
-- Go back to the plugins tab, go to Themidie -> Start and select and open the executable that you want to debug
+- Go back to the plugins tab, go to Themidie -> Start, then select and open the executable that you want to debug
 
 ![](Images/themidie_start.png)
 
