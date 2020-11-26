@@ -11,18 +11,23 @@ x64dbg plugin to bypass Themida 3.x Anti-Debugger / VM / Monitoring programs che
 
 - Download the [latest version](https://github.com/VenTaz/Themidie/releases/latest) of Themidie and extract Themidie.dll and Themidie.dp64 to x64dbg's plugins folder 
 - Download the [latest version](https://github.com/x64dbg/ScyllaHide/releases/latest) of ScyllaHide and extract HookLibraryx64.dll and ScyllaHideX64DBGPlugin.dp64 to x64dbg's plugins folder 
+
 ![](Images/plugins.png)
 
-- Start x64dbg, click on the plugins tab, go to ScyllaHide => Options
+- Start x64dbg, click on the plugins tab, go to ScyllaHide Options
+
 ![](Images/scylla_options.png)
 
 - Disable everything, enable "Kill Anti-Attach" only and click on the "OK" button
+
 ![](Images/scylla_kill_anti_attach.png)
 
 - Go back to the plugins tab, go to Themidie -> Start and select and open the executable that you want to debug
+
 ![](Images/themidie_start.png)
 
 - When this MessageBox will apear, you will be able to attach x64dbg to the target process and debug it. 
+
 ![](Images/themidie_messagebox.png)
 
 
@@ -45,5 +50,4 @@ Themidie only works for x64 executables, tested on various Themida 3.x+ versions
 
 
 #### Contact
-Discord: VenTaz#8766
-Email: support@hactify.ru
+Discord: VenTaz#8766 or email: support@hactify.ru
