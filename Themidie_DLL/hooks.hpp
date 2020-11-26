@@ -126,7 +126,7 @@ nqvm_hook(HANDLE process_handle, void *base_address, _MEMORY_INFORMATION_CLASS m
 		{
 			MH_DisableHook(&GetModuleHandleA);
 			is_loaded = 1;
-			MessageBoxA(0, "The executable is now loaded in the memory. You can attach x64dbg to Themidie.exe.", "Themidie", 64L);
+			MessageBoxA(0, "The executable is now loaded in the memory. You can attach x64dbg to the target process.", "Themidie", 64L);
 		}
 	}
 
