@@ -50,4 +50,4 @@ Themidie only works for x64 executables, tested on various Themida 3.x+ versions
 
 
 #### Contact
-Discord: VenTaz#8766 or email: support@hactify.ru
+Discord: VenTaz#8766
